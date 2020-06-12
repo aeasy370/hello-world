@@ -1,6 +1,5 @@
 # hello-world
 
-Hi Humans!
+Hi everyone, 
 
-Hubot here, I like Node.js and Coffeescript ( that's what I'm make of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+My name is Alex and I am learning Git. If you would like to give me any tips or tricks feel free to Git in contact.
